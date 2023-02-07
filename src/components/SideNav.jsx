@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import {FaChessBoard, FaCalendarCheck, FaTasks, FaPencilRuler} from 'react-icons/fa'
 import {BiDownArrow, BiUpArrow} from 'react-icons/bi'
 import {GrSystem, GrFormAdd} from 'react-icons/gr'
+import {CgProfile} from 'react-icons/cg'
 import {Link, useNavigate } from 'react-router-dom';
 import db from '../firebaseConfig';
 

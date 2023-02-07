@@ -11,7 +11,7 @@ function TopNav() {
           </div>
           <input className='ml-1 w-full border-none focus:outline-none text-center' placeholder='Search in EliteQ' type="text"/>
         </div>
-        <div className='mt-auto mb-auto mr-2 ml-2'>
+        <div className='mt-auto mb-auto mr-2 ml-2 cursor-pointer'>
           <BsBell/>
         </div>
       </div>

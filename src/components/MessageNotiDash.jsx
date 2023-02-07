@@ -5,25 +5,25 @@ function MessageNotiDash() {
   return (
     <>
         <MessageCompo
-        image='https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg'
-        personName='newPerson1'
-        latestMsg='Hello there, how are you!'/>
+        userImg='https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg'
+        user='newPerson1'
+        name='Hello there, how are you!'/>
         <MessageCompo
-        image='https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg'
-        personName='newPerson2'
-        latestMsg='Hii there, how are you!'/>
+        userImg='https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg'
+        user='newPerson2'
+        name='Hii there, how are you!'/>
         <MessageCompo
-        image='https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg'
-        personName='newPerson3'
-        latestMsg='Hola, how are you!'/>
+        userImg='https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg'
+        user='newPerson3'
+        name='Hola, how are you!'/>
         <MessageCompo
-        image='https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg'
-        personName='newPerson4'
-        latestMsg='Yo there, how are you!'/>
+        userImg='https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg'
+        user='newPerson4'
+        name='Yo there, how are you!'/>
         <MessageCompo
-        image='https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg'
-        personName='newPerson5'
-        latestMsg='Hey Man, how are you!'/>
+        userImg='https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg'
+        user='newPerson5'
+        name='Hey Man, how are you!'/>
 
     </>
   )
