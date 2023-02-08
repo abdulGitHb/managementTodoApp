@@ -12,7 +12,7 @@ function ChatMessageComp(props) {
             alt="user img"
           />
           <div className="flex flex-col p-1 ml-2 mr-4 mt-auto mb-auto bg-green-400 rounded-r-lg rounded-b-lg">
-            <h1 className="font-semibold text-md">{props.chatMsg.user}</h1>
+            <h1 className="font-semibold text-pink-600 text-md">{props.chatMsg.user}</h1>
             <h1 className='text-xl'>{props.chatMsg.name}</h1>
           </div>
         </div>
